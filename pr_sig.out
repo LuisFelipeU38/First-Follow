@@ -1,0 +1,38 @@
+5
+5
+Pr(S) = {a, b}
+Pr(C) = {a, b}
+Pr(D) = {a, b}
+Pr(A) = {a}
+Pr(B) = {b}
+Sig(S) = {$, a, b}
+Sig(C) = {$, a, b}
+Sig(D) = {$, a, b}
+Sig(A) = {$, a, b}
+Sig(B) = {$, a, b}
+5
+Pr(E) = {(, id}
+Pr(A) = {+, ε}
+Pr(T) = {(, id}
+Pr(B) = {*, ε}
+Pr(F) = {(, id}
+Sig(E) = {$, )}
+Sig(A) = {$, )}
+Sig(T) = {$, ), +}
+Sig(B) = {$, ), +}
+Sig(F) = {$, ), *, +}
+1
+Pr(S) = {(, a}
+Sig(S) = {$, (, ), *, +, a}
+2
+Pr(S) = {(, a}
+Pr(L) = {(, a}
+Sig(S) = {$, ), ,}
+Sig(L) = {), ,}
+3
+Pr(S) = {(, c, d, z}
+Pr(A) = {(, c, d, z}
+Pr(B) = {(, c, d, z}
+Sig(S) = {$, ), a}
+Sig(A) = {$, ), a, b}
+Sig(B) = {$, ), a, b}
