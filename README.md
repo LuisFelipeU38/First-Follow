@@ -9,7 +9,7 @@
 #
 # 1. breve descripción de la actividad
 Este proyecto proporciona un conjunto de scripts en Python para calcular los conjuntos `FIRST` y `FOLLOW` de una gramática libre de contexto.
-## 1.1. Que aspectos cumplió o desarrolló de la actividad propuesta por el profesor (requerimientos funcionales y no funcionales)
+## 1.1. Que aspectos cumplió o desarrolló de la actividad propuesta (requerimientos funcionales y no funcionales)
 - Procesamiento de Entrada (glcs.in):
 El script lee el archivo glcs.in y procesa el número de casos, el número de no terminales, y las producciones de cada no terminal.
 - Generación de Salida (pr_sig.out):
@@ -24,6 +24,11 @@ Para este proyecto no se utilizan librerías ni paquetes especiales más allá d
 ## Requisitos
 Python 3.x: Asegúrate de tener instalado Python 3.x en tu sistema. Puedes verificar la versión instalada ejecutando python --version o python3 --version en la terminal.
 ## como se compila y ejecuta.
+1. Instalar Python:
+   Asegúrate de tener Python 3.x instalado.
+2. Clonar el Repositorio:
+   git clone [https://github.com/tu_usuario/tu_repositorio.git](https://github.com/LuisFelipeU38/First-Follow.git)
+   cd First-Follow
 
 ## (ESTRUCTURA DE DIRECTORIOS Y ARCHIVOS IMPORTANTE DEL PROYECTO)
 ## 
