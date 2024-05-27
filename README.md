@@ -27,7 +27,7 @@ Python 3.x: Asegúrate de tener instalado Python 3.x en tu sistema. Puedes verif
 1. Instalar Python:
    Asegúrate de tener Python 3.x instalado.
 2. Clonar el Repositorio:
-   git clone [https://github.com/tu_usuario/tu_repositorio.git](https://github.com/LuisFelipeU38/First-Follow.git)
+   git clone https://github.com/LuisFelipeU38/First-Follow.git
    cd First-Follow
 
 ## (ESTRUCTURA DE DIRECTORIOS Y ARCHIVOS IMPORTANTE DEL PROYECTO)
