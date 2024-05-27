@@ -17,6 +17,6 @@ S -> S+S|SS|(S)|S*|a
 S -> (L)|a
 L -> L,S|S
 3
-S -> S a A| A
-A -> A b B| B
-B -> c B| ( S ) | d | z
+bexpr -> bexpr or bterm|bterm
+bterm -> bterm and bfactor|bfactor
+bfactor -> not bfactor|(bexpr)|true|false

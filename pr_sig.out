@@ -30,9 +30,9 @@ Pr(L) = {(, a}
 Sig(S) = {$, ), ,}
 Sig(L) = {), ,}
 3
-Pr(S) = {(, c, d, z}
-Pr(A) = {(, c, d, z}
-Pr(B) = {(, c, d, z}
-Sig(S) = {$, ), a}
-Sig(A) = {$, ), a, b}
-Sig(B) = {$, ), a, b}
+Pr(bexpr) = {(, false, not, true}
+Pr(bterm) = {(, false, not, true}
+Pr(bfactor) = {(, false, not, true}
+Sig(bexpr) = {$, ), or}
+Sig(bterm) = {$, ), and, or}
+Sig(bfactor) = {$, ), and, or}
