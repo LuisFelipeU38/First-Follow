@@ -25,15 +25,17 @@ Para este proyecto no se utilizan librerías ni paquetes especiales más allá d
 Python 3.x: Asegúrate de tener instalado Python 3.x en tu sistema. Puedes verificar la versión instalada ejecutando python --version o python3 --version en la terminal.
 ## como se compila y ejecuta.
 1. Instalar Python:
-   Asegúrate de tener Python 3.x instalado.
+   - Asegúrate de tener Python 3.x instalado.
 2. Clonar el Repositorio:
-   git clone https://github.com/LuisFelipeU38/First-Follow.git
-   cd First-Follow
-
+   - git clone https://github.com/LuisFelipeU38/First-Follow.git
+   - cd First-Follow
 ## (ESTRUCTURA DE DIRECTORIOS Y ARCHIVOS IMPORTANTE DEL PROYECTO)
-## 
+1. main.py: Script principal que lee la gramática desde un archivo de entrada, calcula los conjuntos FIRST y FOLLOW, y escribe los resultados en un archivo de salida.
+2. glcs.in: Archivo de entrada que contiene la gramática.
+3. pr_sig.out: Archivo de salida que contiene los resultados de los conjuntos FIRST y FOLLOW.
 ## resultados o pantallazos 
+![image](https://github.com/LuisFelipeU38/First-Follow/assets/83362726/8901ebc3-2668-4dec-91b9-cdac40c3e634)
+## Conjuntos First and Follow esperados:
+![image](https://github.com/LuisFelipeU38/First-Follow/assets/83362726/d7a04bc4-f9a4-4515-8771-7c48e3d47f2f)
 
-# 5. otra información que considere relevante para esta actividad.
 
-# referencias:
